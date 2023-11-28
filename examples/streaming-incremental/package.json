@@ -4,7 +4,7 @@
   "description": "Explicitly show how Dust streams a page incrementally",
   "main": "app.js",
   "dependencies": {
-    "dustjs-linkedin": "^2.6.1",
+    "dustjs-linkedin": "^3.0.1",
     "express": "^4.12.3",
     "q": "^1.2.0"
   },
